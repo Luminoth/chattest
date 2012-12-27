@@ -1,0 +1,9 @@
+server:
+- Rework the communication protocol
+- The help command should get the info from the handlers
+
+client:
+
+loadtest:
+
+admin:
